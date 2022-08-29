@@ -1,0 +1,22 @@
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.exe.config
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.exe
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.pdb
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.AssemblyReference.cache
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.SuggestedBindingRedirects.cache
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.Form1.resources
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.Properties.Resources.resources
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.GenerateResource.cache
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.CoreCompileInputs.cache
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.exe
+E:\TUP 2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.exe.config
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\bin\Debug\Problema1_3_Banco_Nico_V1.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.SuggestedBindingRedirects.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.Form1.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.Properties.Resources.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\Problema1_3_Banco_Nico_V1\Problema1_3_Banco_Nico_V1\obj\Debug\Problema1_3_Banco_Nico_V1.pdb
